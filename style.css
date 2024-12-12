@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+header, footer {
+    text-align: center;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 40px;
+}
+
+footer p {
+    margin-top: 20px;
+    font-size: 0.875rem;
+    color: #666;
+}
